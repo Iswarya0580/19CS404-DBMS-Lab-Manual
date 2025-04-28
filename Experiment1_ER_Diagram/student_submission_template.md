@@ -5,7 +5,7 @@
 ## Register no: 212223230082
 
 ## Scenario Chosen:
-University / Hospital (choose one)
+University 
 
 ## ER Diagram:
 ## University Database:
