@@ -52,75 +52,28 @@ Key Differences:
 -Functions can be called from SQL queries, procedures cannot (in most cases).
 
 ## 1. Write a PL/SQL Procedure to Find the Square of a Number
-
-### Steps:
-- Create a procedure named `find_square`.
-- Declare a parameter to accept a number.
-- Inside the procedure, compute the square of the input number.
-- Use `DBMS_OUTPUT.PUT_LINE` to display the result.
-- Call the procedure with a number as input.
-
-**Expected Output:**  
-Square of 6 is 36
-
----
+## PROGRAM:
+## OUTPUT:
 
 ## 2. Write a PL/SQL Function to Return the Factorial of a Number
-
-### Steps:
-- Create a function named `get_factorial`.
-- Declare a parameter to accept a number.
-- Use a loop to calculate the factorial.
-- Return the result using the `RETURN` statement.
-- Call the function using a `SELECT` statement or in an anonymous block.
-
-**Expected Output:**  
-Factorial of 5 is 120
-
----
+## PROGRAM:
+## OUTPUT:
 
 ## 3. Write a PL/SQL Procedure to Check Whether a Number is Even or Odd
 
-### Steps:
-- Create a procedure named `check_even_odd`.
-- Accept an input parameter.
-- Use the `MOD` function to check if the number is divisible by 2.
-- Display whether it is Even or Odd using `DBMS_OUTPUT.PUT_LINE`.
-
-**Expected Output:**  
-12 is Even
-
----
+## PROGRAM:
+## OUTPUT:
 
 ## 4. Write a PL/SQL Function to Return the Reverse of a Number
 
-### Steps:
-- Create a function named `reverse_number`.
-- Accept an input number as parameter.
-- Use a loop to reverse the digits of the number.
-- Return the reversed number.
-- Call the function and display the output.
-
-**Expected Output:**  
-Reversed number of 1234 is 4321
-
+## PROGRAM:
+## OUTPUT:
 ---
 
 ## 5. Write a PL/SQL Procedure to Display the Multiplication Table of a Number
 
-### Steps:
-- Create a procedure named `print_table`.
-- Accept an input number.
-- Use a loop from 1 to 10 to multiply the input number.
-- Display the multiplication results using `DBMS_OUTPUT.PUT_LINE`.
-
-**Expected Output:**  
-Multiplication table of 5:  
-5 x 1 = 5  
-5 x 2 = 10  
-5 x 3 = 15  
-...  
-5 x 10 = 50
+## PROGRAM:
+## OUTPUT:
 
 ## RESULT
 Thus, the PL/SQL programs using procedures and functions were written, compiled, and executed successfully.
